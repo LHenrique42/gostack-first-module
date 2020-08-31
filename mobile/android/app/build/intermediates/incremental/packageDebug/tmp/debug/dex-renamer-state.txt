@@ -1,0 +1,4 @@
+#Sun Aug 23 22:17:07 BRT 2020
+base.0=/media/henrique/Henrique/GitHub/Rocketseat/GoStack/1_Level/conceitosDev/mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
